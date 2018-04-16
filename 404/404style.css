@@ -1,0 +1,35 @@
+body {
+	background-image: url("daniel-jensen-354568-unsplash.jpg");
+	background-size: 1450px 825px;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	color: white;
+	font-family: 'Petit Formal Script', cursive;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	font-family: 'Petit Formal Script', cursive;
+	text-align: center;
+}
+
+h3{
+	color: white;
+	font-family: 'Petit Formal Script', cursive;
+	text-align: center;
+}
+
+
+header {
+	margin-top: 250px;
+}
+
+footer{
+	color: white;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
