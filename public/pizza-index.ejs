@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pizza index</title>
+</head>
+<body>
+	<h1>Ada's Pizza</h1>
+
+	<ul>
+		<% myPizzaList.forEach((pizza) => { %>
+			<li><%= pizza.flavor %></li>
+			<img src=  <%= pizza.image %>>
+		<% }) %> 
+
+		<%= message %>
+	</ul>
+
+</body>
+</html>
